@@ -1,11 +1,25 @@
 proxies:
+- cipher: chacha20-ietf-poly1305
+  name: 0|🇭🇰香港 02 | 1x HK
+  password: 882dfcb0-44d3-400b-ab63-a0d7af8a16ae
+  port: 31143
+  server: free.2apzhfa.xyz
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 0|🇭🇰香港家宽 03 | 1x HK
+  password: 882dfcb0-44d3-400b-ab63-a0d7af8a16ae
+  port: 31145
+  server: free.2apzhfa.xyz
+  type: ss
+  udp: true
 - alterId: 2
   cipher: auto
   country: 🇭🇰 HK
   delay: 2193
   h2-opts: {}
   http-opts: {}
-  name: 1|🇭🇰3 |  2.0MB/s|15%|Disney|Yout...
+  name: 2|🇭🇰3 |  2.0MB/s|15%|Disney|Yout...
   network: ws
   port: 80
   server: c0577990-sv2sg0-syydd8-k02s.hk.p5pv.com

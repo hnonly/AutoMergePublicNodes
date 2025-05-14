@@ -1,6 +1,20 @@
 proxies:
+- cipher: chacha20-ietf-poly1305
+  name: 0|🇭🇰香港 02 | 1x HK
+  password: 882dfcb0-44d3-400b-ab63-a0d7af8a16ae
+  port: 31143
+  server: free.2apzhfa.xyz
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 0|🇭🇰香港家宽 03 | 1x HK
+  password: 882dfcb0-44d3-400b-ab63-a0d7af8a16ae
+  port: 31145
+  server: free.2apzhfa.xyz
+  type: ss
+  udp: true
 - client-fingerprint: chrome
-  name: 1,14|RU_speednode_0044
+  name: 2,14|RU_speednode_0044
   network: ws
   port: 80
   server: 185.174.138.206
@@ -15,7 +29,7 @@ proxies:
       Host: ipsycho.suex12.ir
     path: /re5IzbZ9IZZMddtw?ed=2560
 - client-fingerprint: chrome
-  name: 1|🇭🇰2 |  1.9MB/s|6%
+  name: 2|🇭🇰2 |  1.9MB/s|6%
   password: 25d55ad283aa400af464c76d713c07ad
   port: 8443
   server: hk04.sqx001.com
@@ -30,7 +44,7 @@ proxies:
   delay: 2193
   h2-opts: {}
   http-opts: {}
-  name: 1|🇭🇰3 |  2.0MB/s|15%|Disney|Yout...
+  name: 2|🇭🇰3 |  2.0MB/s|15%|Disney|Yout...
   network: ws
   port: 80
   server: c0577990-sv2sg0-syydd8-k02s.hk.p5pv.com

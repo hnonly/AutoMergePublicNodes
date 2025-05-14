@@ -1,5 +1,229 @@
 proxies:
-- name: 1|🇺🇸8 |  1.9MB/s|Openai|Gemini
+- cipher: chacha20-ietf-poly1305
+  name: 0|🇭🇰香港 01 | 1x HK
+  password: 882dfcb0-44d3-400b-ab63-a0d7af8a16ae
+  port: 31141
+  server: free.2apzhfa.xyz
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 0|🇭🇰香港 02 | 1x HK
+  password: 882dfcb0-44d3-400b-ab63-a0d7af8a16ae
+  port: 31143
+  server: free.2apzhfa.xyz
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 0|🇭🇰香港家宽 03 | 1x HK
+  password: 882dfcb0-44d3-400b-ab63-a0d7af8a16ae
+  port: 31145
+  server: free.2apzhfa.xyz
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 0|🇹🇼台湾 01 | 1x TW
+  password: 882dfcb0-44d3-400b-ab63-a0d7af8a16ae
+  port: 31241
+  server: free.2apzhfa.xyz
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 0|🇹🇼台湾 02 | 1x TW
+  password: 882dfcb0-44d3-400b-ab63-a0d7af8a16ae
+  port: 31243
+  server: free.2apzhfa.xyz
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 0|🇹🇼台湾 03 | 1x TW
+  password: 882dfcb0-44d3-400b-ab63-a0d7af8a16ae
+  port: 31245
+  server: free.2apzhfa.xyz
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 0|🇯🇵日本 01 | 1x JP
+  password: 882dfcb0-44d3-400b-ab63-a0d7af8a16ae
+  port: 31111
+  server: free.2apzhfa.xyz
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 0|🇯🇵日本 02 | 1x JP
+  password: 882dfcb0-44d3-400b-ab63-a0d7af8a16ae
+  port: 31113
+  server: free.2apzhfa.xyz
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 0|🇯🇵日本 03 | 1x JP
+  password: 882dfcb0-44d3-400b-ab63-a0d7af8a16ae
+  port: 31115
+  server: free.2apzhfa.xyz
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 0|🇸🇬新加坡 01 | 1x SG
+  password: 882dfcb0-44d3-400b-ab63-a0d7af8a16ae
+  port: 31171
+  server: free.2apzhfa.xyz
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 0|🇸🇬新加坡 02 | 1x SG
+  password: 882dfcb0-44d3-400b-ab63-a0d7af8a16ae
+  port: 31173
+  server: free.2apzhfa.xyz
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 0|🇸🇬新加坡 03 | 1x SG
+  password: 882dfcb0-44d3-400b-ab63-a0d7af8a16ae
+  port: 31175
+  server: free.2apzhfa.xyz
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 0|🇰🇷韩国 01 | 1x KR
+  password: 882dfcb0-44d3-400b-ab63-a0d7af8a16ae
+  port: 31311
+  server: free.2apzhfa.xyz
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 0|🇰🇷韩国 02 | 1x KR
+  password: 882dfcb0-44d3-400b-ab63-a0d7af8a16ae
+  port: 31313
+  server: free.2apzhfa.xyz
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 0|🇵🇭菲律宾 01 | 1x PH
+  password: 882dfcb0-44d3-400b-ab63-a0d7af8a16ae
+  port: 31341
+  server: free.2apzhfa.xyz
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 0|🇺🇸美国 01 | 1x US Los Angeles
+  password: 882dfcb0-44d3-400b-ab63-a0d7af8a16ae
+  port: 31211
+  server: free.2apzhfa.xyz
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 0|🇺🇸美国家宽 02 | 1x US Los Angeles
+  password: 882dfcb0-44d3-400b-ab63-a0d7af8a16ae
+  port: 31213
+  server: free.2apzhfa.xyz
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 0|🇺🇸美国 03 | 1x US Washington
+  password: 882dfcb0-44d3-400b-ab63-a0d7af8a16ae
+  port: 31215
+  server: free.2apzhfa.xyz
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 0|🇬🇧英国家宽 01 | 1x UK
+  password: 882dfcb0-44d3-400b-ab63-a0d7af8a16ae
+  port: 31271
+  server: free.2apzhfa.xyz
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 0|🇹🇭泰国01  | 1x TH
+  password: 882dfcb0-44d3-400b-ab63-a0d7af8a16ae
+  port: 31741
+  server: free.2apzhfa.xyz
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 0|🇲🇾马来西亚01 | 1x MY
+  password: 882dfcb0-44d3-400b-ab63-a0d7af8a16ae
+  port: 31721
+  server: free.2apzhfa.xyz
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 0|🇲🇾马来西亚02 | 1x MY
+  password: 882dfcb0-44d3-400b-ab63-a0d7af8a16ae
+  port: 31722
+  server: free.2apzhfa.xyz
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 0|🇮🇳印度 01 | 1x IN
+  password: 882dfcb0-44d3-400b-ab63-a0d7af8a16ae
+  port: 31371
+  server: free.2apzhfa.xyz
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 0|🇦🇺澳大利亚 01 | 1x AU
+  password: 882dfcb0-44d3-400b-ab63-a0d7af8a16ae
+  port: 31411
+  server: free.2apzhfa.xyz
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 0|🇨🇦加拿大 01 | 1x CA
+  password: 882dfcb0-44d3-400b-ab63-a0d7af8a16ae
+  port: 31441
+  server: free.2apzhfa.xyz
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 0|🇩🇪德国 01 | 1x DE
+  password: 882dfcb0-44d3-400b-ab63-a0d7af8a16ae
+  port: 31471
+  server: free.2apzhfa.xyz
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 0|🇷🇺俄罗斯 01 | 1x RU
+  password: 882dfcb0-44d3-400b-ab63-a0d7af8a16ae
+  port: 31511
+  server: free.2apzhfa.xyz
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 0|🇹🇷土耳其 01 | 1x TR
+  password: 882dfcb0-44d3-400b-ab63-a0d7af8a16ae
+  port: 31571
+  server: free.2apzhfa.xyz
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 0|🇺🇦乌克兰 01 | 1x UA
+  password: 882dfcb0-44d3-400b-ab63-a0d7af8a16ae
+  port: 31611
+  server: free.2apzhfa.xyz
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 0|🇻🇳越南 01 | 1x VN
+  password: 882dfcb0-44d3-400b-ab63-a0d7af8a16ae
+  port: 31641
+  server: free.2apzhfa.xyz
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 0|🇧🇷巴西 01 | 1x BR
+  password: 882dfcb0-44d3-400b-ab63-a0d7af8a16ae
+  port: 31671
+  server: free.2apzhfa.xyz
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 0|🇮🇩印度尼西亚 01 | 1x ID
+  password: 882dfcb0-44d3-400b-ab63-a0d7af8a16ae
+  port: 31677
+  server: free.2apzhfa.xyz
+  type: ss
+  udp: true
+- name: 2|🇺🇸8 |  1.9MB/s|Openai|Gemini
   password: RlzoEILU
   port: 7815
   server: 36.151.251.59
@@ -8,7 +232,7 @@ proxies:
   udp: true
 - alterId: 0
   cipher: auto
-  name: 1|🇺🇸9 |  1.1MB/s|0%|Openai
+  name: 2|🇺🇸9 |  1.1MB/s|0%|Openai
   network: ws
   port: 443
   server: ljm005-2.facai202408.com
@@ -23,7 +247,7 @@ proxies:
     headers:
       Host: ljm005-2.facai202408.com
     path: /b95bf0d8-
-- name: 1,14|CN_speednode_0016
+- name: 2,14|CN_speednode_0016
   password: 4a7f880c-72f4-11ed-b0b5-f23c9164ca5d
   port: 15229
   server: 3c80a135-swb8g0-t6ouc9-13xtu.cu.plebai.net
@@ -35,7 +259,7 @@ proxies:
   cipher: auto
   h2-opts: {}
   http-opts: {}
-  name: 1|🇺🇸34 |  5.3MB/s|34%|Openai
+  name: 2|🇺🇸34 |  5.3MB/s|34%|Openai
   network: ws
   port: 80
   server: 9e5560.82d35d19-d88c.shop
@@ -47,13 +271,13 @@ proxies:
     headers:
       HOST: us03s.82d35d19-d88c.shop
     path: /
-- name: 1|🇺🇸37 |  2.7MB/s|Openai
+- name: 2|🇺🇸37 |  2.7MB/s|Openai
   password: 60f6b4c4-9d70-11ed-a4d2-f23c9164ca5d
   port: 15229
   server: 12748b59-sw9ds0-t1bnjq-1krtb.cu.plebai.net
   skip-cert-verify: false
   type: trojan
-- name: 1|🇺🇸38 |  3.0MB/s|0%|Openai
+- name: 2|🇺🇸38 |  3.0MB/s|0%|Openai
   network: ws
   password: aTArbZ2F0E
   port: 443
@@ -65,7 +289,7 @@ proxies:
     path: /linkvkws
 - alterId: 64
   cipher: auto
-  name: 1|🇯🇵2 |  5.7MB/s|54%|Openai
+  name: 2|🇯🇵2 |  5.7MB/s|54%|Openai
   network: ws
   port: 1443
   server: sslvpn.51job.com
@@ -80,7 +304,7 @@ proxies:
     headers:
       Host: centos7
     path: /634c5c4f9782
-- name: 1|🌀2-MU |  1.2MB/s|12%|Youtube|O...
+- name: 2|🌀2-MU |  1.2MB/s|12%|Youtube|O...
   password: ef35dfd8-b468-42fb-abf8-0a6c4536c1ff
   port: 46927
   server: 120.232.220.45
@@ -88,7 +312,7 @@ proxies:
   sni: q08m.vgraxiw73s.hasyaf.cn
   type: trojan
   udp: true
-- name: 1,14|DE_speednode_0019
+- name: 2,14|DE_speednode_0019
   password: '74260665780162200'
   port: 443
   server: cuddly-finch.shiner427.skin
@@ -96,7 +320,7 @@ proxies:
   sni: cuddly-finch.shiner427.skin
   type: trojan
   udp: true
-- name: 1|🌀3-ES |  1.6MB/s|50%|Youtube|O...
+- name: 2|🌀3-ES |  1.6MB/s|50%|Youtube|O...
   password: ef35dfd8-b468-42fb-abf8-0a6c4536c1ff
   port: 46926
   server: 120.232.220.45
@@ -104,7 +328,7 @@ proxies:
   sni: q08m.vgraxiw73s.hasyaf.cn
   type: trojan
   udp: true
-- name: 1,14|FR_speednode_0021
+- name: 2,14|FR_speednode_0021
   password: '74260665780162200'
   port: 443
   server: grown-doberman.shiner427.skin
@@ -112,7 +336,7 @@ proxies:
   sni: grown-doberman.shiner427.skin
   type: trojan
   udp: true
-- name: 1,14|DE_speednode_0018
+- name: 2,14|DE_speednode_0018
   password: '74260665780162200'
   port: 443
   server: ultimate-lemming.shiner427.skin
@@ -120,7 +344,7 @@ proxies:
   sni: ultimate-lemming.shiner427.skin
   type: trojan
   udp: true
-- name: 1,14|BG_speednode_0005
+- name: 2,14|BG_speednode_0005
   network: ws
   password: bpb-trojan
   port: 443
@@ -135,7 +359,7 @@ proxies:
     path: /tr?ed=2560
 - alterId: 0
   cipher: auto
-  name: 1|🌀4-ID |  1.1MB/s|40%|Youtube|O...
+  name: 2|🌀4-ID |  1.1MB/s|40%|Youtube|O...
   port: 17234
   server: 2a668e37-surog0-sxm4ot-zn8y.cm5.p5pv.com
   skip-cert-verify: true
@@ -145,7 +369,7 @@ proxies:
   uuid: 44e76f8c-7362-11ec-bb74-f23c9164ca5d
 - alterId: 0
   cipher: auto
-  name: 1|🇺🇸43 |  5.8MB/s|Netflix|Openai
+  name: 2|🇺🇸43 |  5.8MB/s|Netflix|Openai
   network: ws
   port: 2096
   server: 141.101.120.253
@@ -170,7 +394,7 @@ proxies:
       - parsabr.com
     path:
     - /
-  name: 1|🇩🇪7 |  5.0MB/s|Youtube|Openai
+  name: 2|🇩🇪7 |  5.0MB/s|Youtube|Openai
   network: http
   port: '443'
   server: 167.172.180.77
@@ -184,7 +408,7 @@ proxies:
   - ''
   alterId: '0'
   cipher: auto
-  name: 1|🇩🇪9 |  5.7MB/s|20%|Youtube|Ope...
+  name: 2|🇩🇪9 |  5.7MB/s|20%|Youtube|Ope...
   network: tcp
   port: '45541'
   server: 142.132.185.156
@@ -195,13 +419,13 @@ proxies:
   uuid: d79bcd65-10ed-4cc2-b5fa-3680f6092951
   xudp: true
 - cipher: chacha20-ietf
-  name: 1|🇸🇬2 |  5.8MB/s|0%|Netflix|Disn...
+  name: 2|🇸🇬2 |  5.8MB/s|0%|Netflix|Disn...
   password: asd123456
   port: '8388'
   server: 103.36.91.32
   type: ss
   udp: true
-- name: 1|🇺🇸87 |  3.2MB/s|46%|Openai
+- name: 2|🇺🇸87 |  3.2MB/s|46%|Openai
   password: 60f6b4c4-9d70-11ed-a4d2-f23c9164ca5d
   port: 15229
   server: 26a33cb5-swb8g0-t1bnjq-1krtb.cu.plebai.net
@@ -212,7 +436,7 @@ proxies:
   delay: 1856
   h2-opts: {}
   http-opts: {}
-  name: 1|🇯🇵3 |  3.6MB/s|11%|Disney|Yout...
+  name: 2|🇯🇵3 |  3.6MB/s|11%|Disney|Yout...
   network: tcp
   port: 17233
   server: 2bbb71ac-svdwg0-sw0nbj-1anhm.cm5.p5pv.com
@@ -225,7 +449,7 @@ proxies:
   delay: 1147
   h2-opts: {}
   http-opts: {}
-  name: 1|🇯🇵4 |  4.6MB/s|11%|Disney|Yout...
+  name: 2|🇯🇵4 |  4.6MB/s|11%|Disney|Yout...
   network: tcp
   port: 17233
   server: 8faa5046-svc1s0-sw0nbj-1anhm.cm5.p5pv.com
@@ -239,7 +463,7 @@ proxies:
   delay: 2193
   h2-opts: {}
   http-opts: {}
-  name: 1|🇭🇰3 |  2.0MB/s|15%|Disney|Yout...
+  name: 2|🇭🇰3 |  2.0MB/s|15%|Disney|Yout...
   network: ws
   port: 80
   server: c0577990-sv2sg0-syydd8-k02s.hk.p5pv.com
@@ -253,7 +477,7 @@ proxies:
     path: /
 - alterId: '0'
   cipher: auto
-  name: 1|🇺🇸97 |  4.5MB/s|34%|Openai
+  name: 2|🇺🇸97 |  4.5MB/s|34%|Openai
   network: ws
   port: 80
   server: 9e5560.82d35d19-d88c.shop
