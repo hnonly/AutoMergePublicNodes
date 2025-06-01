@@ -1,7 +1,7 @@
 proxies:
 - cipher: chacha20-ietf-poly1305
-  name: 0|28🇨🇦加拿大|官网：米卡莎.xyz
-  password: 39f97ddc-c83d-4945-a05a-40d3b39ae420
+  name: 0|28🇨🇦加拿大|官网：m5c3cloud.pro
+  password: 55e66f18-8401-49d4-8e54-0d13fc0da2d6
   port: 31441
   server: freem.vidalith.com
   type: ss
