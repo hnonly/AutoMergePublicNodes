@@ -1,7 +1,21 @@
 proxies:
+- cipher: chacha20-ietf-poly1305
+  name: 0|5🇭🇰香港|官网：m5c3cloud.pro
+  password: d729503b-c7ec-417b-bea6-2cea783c358d
+  port: 31143
+  server: freem.vidalith.com
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 0|6🇭🇰香港家宽|官网：mikasacloud.site
+  password: d729503b-c7ec-417b-bea6-2cea783c358d
+  port: 31145
+  server: freem.vidalith.com
+  type: ss
+  udp: true
 - alterId: 0
   cipher: auto
-  name: 1|🇭🇰1 |  1.8MB/s|15%|Disney|Yout...
+  name: 2|🇭🇰1 |  1.8MB/s|15%|Disney|Yout...
   network: ws
   port: 8080
   server: bc842b49-swexs0-t1rt5e-1s09x.hgc1.tcpbbr.net
@@ -16,7 +30,7 @@ proxies:
 - alterId: 64
   cipher: auto
   client-fingerprint: chrome
-  name: 11|🇭🇰 香港|@ripaojiedian
+  name: 12|🇭🇰 香港|@ripaojiedian
   port: 49554
   server: 183.236.51.38
   skip-cert-verify: false
@@ -26,7 +40,7 @@ proxies:
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
 - cipher: chacha20-ietf-poly1305
   client-fingerprint: chrome
-  name: 11|🇭🇰 香港2|@ripaojiedian
+  name: 12|🇭🇰 香港2|@ripaojiedian
   password: 1450cecfb93f
   plugin: v2ray-plugin
   plugin-opts:
@@ -43,7 +57,7 @@ proxies:
 - alterId: 64
   cipher: auto
   client-fingerprint: chrome
-  name: 11|🇭🇰 香港3|@ripaojiedian
+  name: 12|🇭🇰 香港3|@ripaojiedian
   port: 49302
   server: 183.236.51.38
   skip-cert-verify: false
@@ -54,7 +68,7 @@ proxies:
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
-  name: 11|🇭🇰 香港4|@ripaojiedian
+  name: 12|🇭🇰 香港4|@ripaojiedian
   port: 27680
   server: 38.147.189.7
   skip-cert-verify: false
@@ -65,7 +79,7 @@ proxies:
 - alterId: 64
   cipher: auto
   client-fingerprint: chrome
-  name: 11|🇭🇰 香港5|@ripaojiedian
+  name: 12|🇭🇰 香港5|@ripaojiedian
   port: 31209
   server: 120.232.153.40
   skip-cert-verify: false
@@ -76,7 +90,7 @@ proxies:
 - alterId: 2
   cipher: auto
   client-fingerprint: chrome
-  name: 11,12|香港6|@ripaojiedian
+  name: 12,13|香港6|@ripaojiedian
   network: ws
   port: '30809'
   server: v9.heduian.link
@@ -91,7 +105,7 @@ proxies:
       Host: baidu.com
     path: /oooo
 - client-fingerprint: chrome
-  name: 11,12|香港7|@ripaojiedian
+  name: 12,13|香港7|@ripaojiedian
   network: tcp
   password: 85f133142f04dbf6547da33895cfabb3
   port: 39001
@@ -102,7 +116,7 @@ proxies:
 - alterId: 64
   cipher: auto
   client-fingerprint: chrome
-  name: 11|🇭🇰 香港8|@ripaojiedian
+  name: 12|🇭🇰 香港8|@ripaojiedian
   port: 59652
   server: 183.236.51.38
   skip-cert-verify: false
@@ -112,7 +126,7 @@ proxies:
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
 - alterId: 64
   cipher: auto
-  name: 12|香港|@ripaojiedian
+  name: 13|香港|@ripaojiedian
   network: tcp
   port: '49554'
   server: 183.236.51.38
@@ -122,7 +136,7 @@ proxies:
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
 - alterId: 64
   cipher: auto
-  name: 12|香港3|@ripaojiedian
+  name: 13|香港3|@ripaojiedian
   network: tcp
   port: '49302'
   server: 183.236.51.38
@@ -132,7 +146,7 @@ proxies:
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
 - alterId: 0
   cipher: auto
-  name: 12|香港4|@ripaojiedian
+  name: 13|香港4|@ripaojiedian
   network: tcp
   port: '27680'
   server: 38.147.189.7
@@ -142,7 +156,7 @@ proxies:
   uuid: 1e17ef3c-b4a9-4430-ba37-3c986dba8f2f
 - alterId: 64
   cipher: auto
-  name: 12|香港5|@ripaojiedian
+  name: 13|香港5|@ripaojiedian
   network: tcp
   port: '31209'
   server: 120.232.153.40
@@ -152,7 +166,7 @@ proxies:
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
 - alterId: 64
   cipher: auto
-  name: 12|香港8|@ripaojiedian
+  name: 13|香港8|@ripaojiedian
   network: tcp
   port: '59652'
   server: 183.236.51.38
@@ -160,17 +174,3 @@ proxies:
   tls: false
   type: vmess
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-- cipher: chacha20-ietf-poly1305
-  name: 14|5🇭🇰香港|官网：mikasacloud.site
-  password: 2563ddb9-7ef3-4959-bb31-3516d0831ee3
-  port: 31143
-  server: freem.vidalith.com
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 14|6🇭🇰香港家宽|官网：m5c3cloud.pro
-  password: 2563ddb9-7ef3-4959-bb31-3516d0831ee3
-  port: 31145
-  server: freem.vidalith.com
-  type: ss
-  udp: true
