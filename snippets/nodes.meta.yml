@@ -1682,7 +1682,7 @@ proxies:
   sni: hk.nfsn666.gq
   tls: false
   type: hysteria2
-- name: 10|@meli_proxyy
+- name: 10|@vpnv2rayNGv
   obfs: salamander
   obfs-password: SNLJD19ZejtSdxW4
   password: 0c4c1a89-5645-4fc2-9e3b-ab09aa44e933
@@ -1702,15 +1702,33 @@ proxies:
   sni: h2.gzcloud.shop
   tls: false
   type: hysteria2
-- name: 10|https://t.me/V2ry_Proxy
-  password: 37d19f09-5fa4-4ad0-8484-55050b582a29
-  port: 2056
-  server: fr3.eyucdn.xyz
+- name: 10|@V2rayNG3
+  password: '123456'
+  port: 443
+  server: 192.3.85.237
   skip-cert-verify: true
-  sni: fr3.eyucdn.xyz
+  sni: bing.com
   tls: false
   type: hysteria2
-- name: 10|@vpnv2rayNGv
+- name: '10|@V2rayNG3 #1'
+  password: 15cca331-9e92-449d-93b0-25f82203595f
+  port: 20309
+  server: gb.gomeow.online
+  skip-cert-verify: false
+  sni: gb.gomeow.online
+  tls: false
+  type: hysteria2
+- name: '10|@V2rayNG3 #2'
+  obfs: salamander
+  obfs-password: de8287cd33b05fa3
+  password: 22f2c759db51b3d0
+  port: 12122
+  server: 109.120.135.123
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
+- name: '10|@vpnv2rayNGv #1'
   obfs: salamander
   obfs-password: ywfihi3ohyg9iun3gvu
   password: 3r6PBKy5DX
@@ -1719,12 +1737,57 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '10|@vpnv2rayNGv #1'
+- name: '10|@vpnv2rayNGv #2'
   obfs: salamander
   obfs-password: Djxsjduwue
   password: 3r6PBKy5DX
   port: 501
   server: p1.3dfigures.ir
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: '10|@V2rayNG3 #3'
+  password: 75577117-ABCD-DCBA-AAAA-CC777775577B
+  port: 7777
+  server: s15.serv00.com
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
+- name: '10|@V2rayNG3 #4'
+  obfs: salamander
+  obfs-password: '@azadi_az_inja_migzare'
+  password: '@azadi_az_inja_migzare'
+  port: 443
+  server: all-v4.dgi000.store
+  skip-cert-verify: false
+  sni: all-v4.dgi000.store
+  tls: false
+  type: hysteria2
+- name: '10|@V2rayNG3 #5'
+  obfs: salamander
+  obfs-password: bipbip
+  password: AtTK3tiEA0
+  port: 19037
+  server: p1.punchline.ir
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: '10|@V2rayNG3 #6'
+  obfs: salamander
+  obfs-password: bleepbloop
+  password: AtTK3tiEA0
+  port: 2087
+  server: p1.punchline.ir
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: '10|@V2rayNG3 #7'
+  obfs: salamander
+  obfs-password: bluhbluh
+  password: AtTK3tiEA0
+  port: 44929
+  server: p1.punchline.ir
   skip-cert-verify: true
   tls: false
   type: hysteria2
@@ -1737,7 +1800,7 @@ proxies:
   skip-cert-verify: false
   tls: false
   type: hysteria2
-- name: '10|@vpnv2rayNGv #2'
+- name: '10|@vpnv2rayNGv #3'
   password: Wo9rLCYw6gzcfTgIu11mhBVciVs
   port: 29282
   server: 47.74.34.102
@@ -1825,6 +1888,14 @@ proxies:
   sni: apple.com
   tls: false
   type: hysteria2
+- name: '10|@V2rayNG3 #8'
+  password: dongtaiwang.com
+  port: 50717
+  server: 46.17.41.189
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
 - name: '10|@Filter_breaker | 🏴‍☠️ NA #4'
   password: e8f9a0b1-c2d3-4567-f012-6789012345wx
   port: 9446
@@ -1837,6 +1908,16 @@ proxies:
   port: 444
   server: azadnet.t.me
   sni: www.speedtest.net
+  tls: false
+  type: hysteria2
+- name: '10|@V2rayNG3 #9'
+  obfs: salamander
+  obfs-password: dbc688df29e582d3
+  password: f8e40931bbb827df
+  port: 12123
+  server: 62.60.231.189
+  skip-cert-verify: true
+  sni: www.bing.com
   tls: false
   type: hysteria2
 - name: '10|@Filter_breaker | 🏴‍☠️ NA #6'
