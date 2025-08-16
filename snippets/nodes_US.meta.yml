@@ -55,44 +55,12 @@ proxies:
   sni: us2.1010991.xyz
   tls: false
   type: hysteria2
-- name: 9,10|@Selinc
+- name: '9|Channel id: @ShadowProxy66🇺🇸 #2'
   password: dongtaiwang.com
   port: 63015
   server: 108.181.5.130
   skip-cert-verify: true
   sni: apple.com
-  tls: false
-  type: hysteria2
-- name: 10|美国10 付费推荐：https://dafei.de
-  password: 527a7c04-9a2c-4fdb-aa18-37337e62e917
-  port: 45000
-  server: 107.174.41.101
-  skip-cert-verify: true
-  sni: www.apple.com
-  tls: false
-  type: hysteria2
-- name: '10|美国10 付费推荐：https://dafei.de #1'
-  password: 67828a6e-0144-4e57-8169-2447a3dd2e61
-  port: 45000
-  server: 23.80.81.213
-  skip-cert-verify: true
-  sni: www.apple.com
-  tls: false
-  type: hysteria2
-- name: '10|美国10 付费推荐：https://dafei.de #2'
-  password: 8a104bc2-a8d1-4f38-8c29-17176a68b7d5
-  port: 45000
-  server: 23.80.81.213
-  skip-cert-verify: true
-  sni: www.apple.com
-  tls: false
-  type: hysteria2
-- name: '10|美国10 付费推荐：https://dafei.de #3'
-  password: dac2d4dd-9a4d-4eb0-92a6-028532caed52
-  port: 45000
-  server: 107.174.41.101
-  skip-cert-verify: true
-  sni: www.apple.com
   tls: false
   type: hysteria2
 - client-fingerprint: chrome
@@ -121,7 +89,8 @@ proxies:
   tfo: false
   type: ss
 - client-fingerprint: chrome
-  name: 12|🇺🇸 美国3|@ripaojiedian
+  name: 12,13|美国3|@ripaojiedian
+  network: tcp
   password: 253bc477d4e43c209f2d427272968280
   port: 347
   server: 36.156.102.125
@@ -129,13 +98,25 @@ proxies:
   sni: www.baidu.com
   type: trojan
 - client-fingerprint: chrome
-  name: 12|🇺🇸 美国4|@ripaojiedian
+  name: 12,13|美国4|@ripaojiedian
+  network: tcp
   password: 253bc477d4e43c209f2d427272968280
   port: 22006
   server: 36.156.102.67
   skip-cert-verify: true
   sni: www.baidu.com
   type: trojan
+- name: 13|美国|@ripaojiedian
+  network: ws
+  password: 7248e825-887c-48b9-83bc-c26bc6392bf8
+  port: 443
+  server: 172.67.214.21
+  sni: xXcdvFgt.191268.XYz
+  type: trojan
+  ws-opts:
+    headers:
+      Host: xXcdvFgt.191268.XYz
+    path: '%2FctdmgeIg3NII3ibrzzKXJGy3S1'
 - name: 14|US_speednode_0185
   network: ws
   port: 8880
